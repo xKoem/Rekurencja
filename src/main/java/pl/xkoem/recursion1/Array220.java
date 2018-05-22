@@ -1,4 +1,4 @@
-package pl.xkoem;
+package pl.xkoem.recursion1;
 
 public class Array220 {
     public boolean array220(int[] nums, int index) {

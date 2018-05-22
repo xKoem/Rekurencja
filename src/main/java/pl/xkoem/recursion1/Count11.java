@@ -1,4 +1,4 @@
-package pl.xkoem;
+package pl.xkoem.recursion1;
 
 public class Count11 {
     public int count11(String str) {

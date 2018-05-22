@@ -1,4 +1,4 @@
-package pl.xkoem;
+package pl.xkoem.recursion1;
 
 public class ChangeXY {
     public String changeXY(String str) {

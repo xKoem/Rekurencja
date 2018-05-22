@@ -1,4 +1,4 @@
-package pl.xkoem;
+package pl.xkoem.recursion1;
 
 public class CountHi2 {
     public int countHi2(String str) {

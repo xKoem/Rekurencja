@@ -1,4 +1,4 @@
-package pl.xkoem;
+package pl.xkoem.recursion1;
 
 public class Array6 {
     public boolean array6(int[] nums, int index) {

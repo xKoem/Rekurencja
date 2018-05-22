@@ -1,4 +1,4 @@
-package pl.xkoem;
+package pl.xkoem.recursion1;
 
 public class BunnyEars2 {
     public int bunnyEars2(int bunnies) {

@@ -1,4 +1,4 @@
-package pl.xkoem;
+package pl.xkoem.recursion1;
 
 public class PowerN {
     public int powerN(int base, int n) {
