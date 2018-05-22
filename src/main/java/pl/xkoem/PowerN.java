@@ -1,6 +1,6 @@
 package pl.xkoem;
 
-public class CountN {
+public class PowerN {
     public int powerN(int base, int n) {
         if (n == 1) {
             return base;
